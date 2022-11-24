@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, I'm Nikita</h1>
 <h3 align="center">Python Backend Developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" height="15" width="15">.</h3>
 
 - 💬 Ask me about **Python, Flask, Database.**
