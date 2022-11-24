@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Backend Developer from Russia.</h3>
+<h3 align="center">Python Backend Developer from Russia.</h3>
 
 - 💬 Ask me about **Python, Flask, Database.**
 
